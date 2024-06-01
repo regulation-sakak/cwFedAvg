@@ -1,4 +1,4 @@
-## cwFedAvg for neurIPS 2024
+## cwFedAvg for Personalized Federated Learning
 
 ### Dataset setting
 ```sh
