@@ -7,11 +7,15 @@ This repository is the original implementation of our paper Regularizing and Agg
 The code in this repository was developed based on 
 Zhang, J.; Liu, Y.; Hua, Y.; Wang, H.; Song, T.; Xue, Z.; Ma, R.; and Cao, J. 2023b. Pfllib: Personalized federated learning algorithm library. arXiv preprint arXiv:2312.04992.
 
+
+
 ### Dataset setting
 ```sh
 cd dataset
 python generate_cifar10.py noniid - dir
 ```
+
+
 
 ### PFL training using cwFedAvg algorithm
 ```sh
