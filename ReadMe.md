@@ -3,7 +3,7 @@
 ### Introduction
 ***
 This repository is the original implementation of our paper __*Regularizing and Aggregating Clients with Class Distribution for Personalized Federated Learning*__.
-([Link]([https://arxiv.org/](https://arxiv.org/abs/2406.07800))) 
+[Link]([https://arxiv.org/](https://arxiv.org/abs/2406.07800))
 
 The code in this repository was developed based on 
 Zhang, J.; Liu, Y.; Hua, Y.; Wang, H.; Song, T.; Xue, Z.; Ma, R.; and Cao, J. 2023b. Pfllib: Personalized federated learning algorithm library. arXiv preprint arXiv:2312.04992.
